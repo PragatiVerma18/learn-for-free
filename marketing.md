@@ -55,3 +55,14 @@ This tutorial has been designed for all those readers, who want to learn the bas
 Website - https://www.tutorialspoint.com/email_marketing/
 
 [![emailmarket](https://user-images.githubusercontent.com/41269164/70084728-dcfe8680-1634-11ea-99b7-5399d262140f.PNG)](https://www.tutorialspoint.com/email_marketing/index.htm)
+
+
+## Facebook Ads
+
+This is a free tutorial designed for those who want to learn how you can be an expert doing Facebook Advertising using this Facebook Ads Ninja Masterclass Mini-Course!.In this ultimate introductory course, you will know and understand all the vocabulary used on Facebook Advertising to change your life and change your business
+
+### The Ultimate Facebook Ads MASTERY Course
+
+website - https://www.udemy.com/
+
+[![image](https://user-images.githubusercontent.com/41269164/70126193-85950080-169e-11ea-98fe-df169db33c91.png)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
