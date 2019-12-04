@@ -4,7 +4,7 @@ This file contains resources to learn languages of the world. Best use <kbd>Cmd<
 
 * [Multi-language resources](#multi)
 * [English](#english)
-* Japanese
+* [Japanese](#japanese)
 * [Sanskrit](#sanskrit)
 
 
@@ -27,6 +27,15 @@ Learn free english tutorial and improve your communication skills in english.
 Youtube - https://www.youtube.com/watch?v=GfnDN4BciWM&list=PL6zKLAqTq5pdITaAgoB_mMuVbXL-qnJjf
 
 [![english](https://user-images.githubusercontent.com/41269164/70046238-a2243080-15eb-11ea-8de6-e5c00e75cc9b.PNG)](https://www.evidyarthi.in/english/english-grammar)
+
+
+### Japanese
+
+This is a free youtube tutorial who want to learn japanese language from beginner to advance level.
+
+Youtube - https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv
+
+[![image](https://user-images.githubusercontent.com/41269164/70169319-98d0bc00-16f0-11ea-8cc6-fe644e52dc98.png)](https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv)
 
 
 ## Sanskrit
