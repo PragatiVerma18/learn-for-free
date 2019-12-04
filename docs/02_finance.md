@@ -6,10 +6,11 @@ permalink: /finance/
 
 This file contains resources to learn all things finance and economics.
 
-* [Economics](#economics)
-* Investing
-* Personal Finance
-* [Trading](#trading)
+- [Economics](#economics)
+- Investing
+- Personal Finance
+- [Trading](#trading)
+- Banking
 
 ## Economics
 
@@ -20,7 +21,6 @@ A primer on how the world economics works. This 30 minute video can be more insi
 Website - https://www.youtube.com/watch?v=PHe0bXAIuk0
 
 [![economics by ray dalio](https://user-images.githubusercontent.com/4047597/66024983-fd19a880-e512-11e9-8440-07520405581a.png)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-
 
 ## Trading
 
