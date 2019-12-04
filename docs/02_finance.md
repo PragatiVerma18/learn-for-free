@@ -11,6 +11,7 @@ This file contains resources to learn all things finance and economics.
 - Personal Finance
 - [Trading](#trading)
 - Banking
+- Taxation
 
 ## Economics
 
