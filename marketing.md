@@ -6,7 +6,7 @@ This files contains resources for marketing. The [Digital Marketing](#digital-ma
 * [Copywriting](#copywriting)
 * [Digital Marketing](#digital-marketing)
 * [Email marketing](#email-marketing)
-* Facebook Ads
+* [Facebook Ads](#facebook-ads)
 
 
 ## Content Marketing
