@@ -18,7 +18,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [JavaScript](#javascript)
 * [Django](#django)
 * [Python](#python)
-* Ruby
+* [Ruby](#ruby)
 
 
 ## Android Development
@@ -58,6 +58,13 @@ Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
+### w3schools
+
+W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.
+
+Website - https://www.w3schools.com/
+
+[![w3schools](https://user-images.githubusercontent.com/43781668/70112576-c0397180-167b-11ea-9434-bae0cd03e539.jpg)](https://www.w3schools.com/)
 
 ## Java
 
@@ -69,6 +76,13 @@ Website - https://www.udemy.com/course/java-tutorial/
 
 [![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)](https://www.udemy.com/course/java-tutorial/)
 
+### CodeGym
+
+CodeGym is an online Java programming course consisting of 80% practice. It teaches about Java syntax, Java core, Java Multithreading, Java collections in the form of an interactive quest. It also teaches about the basics of development in java by making some java games step-by-step. It even has many blogs that help to clear concepts about a particular topic.
+
+Website - https://codegym.cc/
+
+[![codegym](https://user-images.githubusercontent.com/43781668/70111915-c2023580-1679-11ea-8d93-6a58a314d3c3.jpg)](https://codegym.cc/)
 
 ## JavaScript
 
@@ -145,4 +159,20 @@ This is easy to grasp highly rated Python tutorial on Youtube. All concepts are 
 Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+## Ruby
+
+### Ruby in 20 minutes
+Ruby in 20 minutes is a small tutorial that teaches the basics of Ruby programming language. This tutorial is created by the official development team of Ruby. It is well-suited for beginners to start with Ruby. By the end of this tutorial, you will be able to create a fully functional web application. This tutorial is completely free and open-source.
+Some of the key topics included in this tutorial are as follows:
+    1. Introduction
+    2. Functions
+    3. Classes and objects
+    4. Variables
+    
+Website - https://www.ruby-lang.org/en/documentation/quickstart/
+
+[![Ruby in 20 minutes](https://user-images.githubusercontent.com/42384542/69919084-2b7a1c80-149f-11ea-9d2a-e29af91feb71.png)](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+
 

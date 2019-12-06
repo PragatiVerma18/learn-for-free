@@ -6,10 +6,12 @@ permalink: /finance/
 
 This file contains resources to learn all things finance and economics.
 
-* [Economics](#economics)
-* Investing
-* Personal Finance
-* [Trading](#trading)
+- [Economics](#economics)
+- Investing
+- Personal Finance
+- [Trading](#trading)
+- [Banking](#banking)
+- Taxation
 
 ## Economics
 
@@ -20,7 +22,6 @@ A primer on how the world economics works. This 30 minute video can be more insi
 Website - https://www.youtube.com/watch?v=PHe0bXAIuk0
 
 [![economics by ray dalio](https://user-images.githubusercontent.com/4047597/66024983-fd19a880-e512-11e9-8440-07520405581a.png)](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-
 
 ## Trading
 
@@ -39,3 +40,14 @@ Learn competent trading strategies from a veteran of crypto twitter. He also pro
 Website - https://www.youtube.com/channel/UCH13wWEgjCwITVnWvtqB5cA/videos
 
 [![trading room's youtube channel](https://user-images.githubusercontent.com/4047597/66118879-13983080-e5f5-11e9-8491-8148903f9e66.png)](https://www.youtube.com/channel/UCH13wWEgjCwITVnWvtqB5cA/videos)
+
+
+## Banking
+
+### Money banking and Central Banks
+
+The source relates the Money and capital with finance, banks and markets. This properly illustrates how  banks make money and the value they (potentially) add to society.
+
+Website- https://www.youtube.com/watch?v=E-HOz8T6tAo&list=PLD47B7120E4FAA2FD
+
+[![banking](https://user-images.githubusercontent.com/45494773/70345594-6ce54000-1882-11ea-9410-640faed52871.PNG)](https://www.youtube.com/watch?v=E-HOz8T6tAo&list=PLD47B7120E4FAA2FD)
