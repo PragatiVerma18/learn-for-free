@@ -7,7 +7,6 @@ This file contains resources to learn languages of the world. Best use <kbd>Cmd<
 * [Japanese](#japanese)
 * [Sanskrit](#sanskrit)
 
-
 <a name="multi"></a>
 ## Multi-language resources
 
@@ -20,22 +19,15 @@ Website - https://www.duolingo.com/
 [![duolingo website](https://user-images.githubusercontent.com/4047597/66025579-706fea00-e514-11e9-855d-e935229432ac.png)](https://duolingo.com)
 
 
-### English
+## Japanese
 
-Learn free english tutorial and improve your communication skills in english.
+### Learn Japanese Language and Culture by Mrs.Vatsala Misra, Instructure Incharge Japanese Language, Foreign Language Programme, IIT Kanpur
 
-Youtube - https://www.youtube.com/watch?v=GfnDN4BciWM&list=PL6zKLAqTq5pdITaAgoB_mMuVbXL-qnJjf
+This is a free youtube tutorials for all about Japanese Language.
 
-[![english](https://user-images.githubusercontent.com/41269164/70046238-a2243080-15eb-11ea-8de6-e5c00e75cc9b.PNG)](https://www.evidyarthi.in/english/english-grammar)
+Youtube - https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv&index=1
 
-
-### Japanese
-
-This is a free youtube tutorial who want to learn japanese language from beginner to advance level.
-
-Youtube - https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv
-
-[![image](https://user-images.githubusercontent.com/41269164/70169319-98d0bc00-16f0-11ea-8cc6-fe644e52dc98.png)](https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv)
+[![image](https://user-images.githubusercontent.com/41269164/70128957-e70b9e00-16a3-11ea-8c5e-2aa2ea93b684.png)](https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv&index=1)
 
 
 ## Sanskrit
