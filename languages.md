@@ -29,7 +29,6 @@ Youtube - https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDl
 
 [![image](https://user-images.githubusercontent.com/41269164/70128957-e70b9e00-16a3-11ea-8c5e-2aa2ea93b684.png)](https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv&index=1)
 
-
 ## Sanskrit
 
 ### Learn Sanskrit Android App by Amar D
