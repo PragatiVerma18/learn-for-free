@@ -1,6 +1,6 @@
 # Learn For Free
 
-[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md) ![hacktoberfest badge](https://img.shields.io/github/hacktoberfest/2019/aviaryan/learn-for-free)
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md) ![hacktoberfest badge](https://img.shields.io/github/hacktoberfest/2019/aviaryan/learn-for-free)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shreyateeza.github.io/learn-for-free/)
 
 Why pay for a degree or a course when you can learn on the Internet for free? 
 
@@ -10,7 +10,7 @@ This project aims to contain free learning resources for all topics you can thin
 
 * [Data Science](data_science.md)
 	* Classical Machine Learning
-	* Computer Vision
+	* [Computer Vision](data_science.md#computer-vision)
 	* [Deep Learning](data_science.md#deep-learning)
 	* Natural Language Processing
 	* Reinforcement Learning
@@ -24,14 +24,14 @@ This project aims to contain free learning resources for all topics you can thin
 	* [3D Graphics](graphics.md#3d-graphics)
 * [Languages](languages.md)
 	* [Multi-language resources](languages.md#multi)
-	* English
+	* [English](languages.md#english)
 	* Japanese
 	* [Sanskrit](languages.md#sanskrit)
 * [Marketing](marketing.md)
 	* [Content Marketing](marketing.md#content-marketing)
 	* [Copywriting](marketing.md#copywriting)
 	* [Digital Marketing](marketing.md#digital-marketing)
-	* Email marketing
+	* [Email marketing](marketing.md#email-marketing)
 	* Facebook Ads
 * [Programming](programming.md)
 	* [Android Development](programming.md#android-development)
@@ -40,7 +40,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [JavaScript](programming.md#javascript)
 	* [Python](programming.md#python)
 	* [Django](programming.md#django)
-	* Ruby
+	* [Ruby](programming.md#ruby)
 * [Security](security.md)
 	* Cryptography
 	* [Ethical Hacking](security.md#ethical-hacking)

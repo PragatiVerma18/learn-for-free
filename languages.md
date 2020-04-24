@@ -3,10 +3,9 @@
 This file contains resources to learn languages of the world. Best use <kbd>Cmd</kbd> + <kbd>F</kbd> (or <kbd>Ctrl</kbd> + <kbd>F</kbd>) and then search for the language you want to learn to locate the resource.
 
 * [Multi-language resources](#multi)
-* English
-* Japanese
+* [English](#english)
+* [Japanese](#japanese)
 * [Sanskrit](#sanskrit)
-
 
 <a name="multi"></a>
 ## Multi-language resources
@@ -19,6 +18,17 @@ Website - https://www.duolingo.com/
 
 [![duolingo website](https://user-images.githubusercontent.com/4047597/66025579-706fea00-e514-11e9-855d-e935229432ac.png)](https://duolingo.com)
 
+
+## Japanese
+
+
+### Learn Japanese Language and Culture by Mrs.Vatsala Misra, Instructure Incharge Japanese Language, Foreign Language Programme, IIT Kanpur
+
+This is a free youtube tutorials for all about Japanese Language.
+
+Youtube - https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv&index=1
+
+[![image](https://user-images.githubusercontent.com/41269164/70128957-e70b9e00-16a3-11ea-8c5e-2aa2ea93b684.png)](https://www.youtube.com/watch?v=dwd_Z917XGI&list=PLbMVogVj5nJRmUlVaKDlcYHdecA_WFLVv&index=1)
 
 ## Sanskrit
 
